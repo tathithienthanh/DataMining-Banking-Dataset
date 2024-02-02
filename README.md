@@ -18,4 +18,10 @@ The full dataset was described and analyzed in:
 # Detailed Information about the dataset
 https://www.kaggle.com/code/santhoshtsk/banking-dataset-analysis-and-prediction/input
 
-## *The report and code are done by me and @phamcongthuan, if you reuse the code please add the citation*
+# About the report and code
+* Used techniques: preprocessing, clustering with K-Means, association rule with apriori, classification with Gaussian Naive Bayes and SVM, ...
+* Re-edit the path if you use our code for importing or loading the dataset.
+* The report is submitted and scored by the instructor.
+* The report is for reference only, please do not edit or use for other purposes.
+
+*All the files are done by me and @phamcongthuan, if you reuse the code please add the citation*
